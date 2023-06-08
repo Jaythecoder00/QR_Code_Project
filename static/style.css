@@ -23,7 +23,7 @@ main{
     width: 22%;
     height: 75%;
     border-radius: 5%;
-    
+    overflow: hidden visible;
 }
 
 #image-container{
